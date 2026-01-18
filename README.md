@@ -6,7 +6,6 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-Regression%20%7C%20Classification-green)
 ![Optimization](https://img.shields.io/badge/Optimization-Gradient%20Descent-purple)
 
-
 ---
 
 **Author:** Tirumala Teja Yegineni  
